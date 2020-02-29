@@ -1,6 +1,4 @@
 # hello-world
 First GitHub repository 
 
-These edits are goint to a separate branch from master.
-
-
+These edits are going to a separate branch from master.
